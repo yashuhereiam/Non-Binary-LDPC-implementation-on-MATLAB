@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project <'project number'> <'Project Title'>
+# Solution to MATLAB and Simulink Challenge project <'Project Number : 192'> <'Project Title : Improve the Accuracy of Satellite Navigation Systems'>
 This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
